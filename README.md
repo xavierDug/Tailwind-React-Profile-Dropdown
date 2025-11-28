@@ -2,6 +2,8 @@
 
 A beautiful, reusable profile dropdown component with modern design, animations, and keyboard shortcuts support.
 
+<img width="353" height="487" alt="image" src="https://github.com/user-attachments/assets/fb1589e3-456f-45de-95eb-b584677f513f" />
+
 ## Features
 
 - ✨ Modern gradient header with user info
