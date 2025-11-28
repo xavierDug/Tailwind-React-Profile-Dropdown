@@ -22,8 +22,8 @@ import { ProfileDropdown } from "@/components/profile-dropdown"
 function YourComponent() {
   return (
     <ProfileDropdown
-      userName="Robin Gemme"
-      userEmail="robgemme@gmail.com"
+      userName="John Doe"
+      userEmail="johndoe@gmail.com"
       userRole="SuperAdmin"
       userInitials="RG"
       onProfileClick={() => console.log("Profile clicked")}
